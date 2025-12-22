@@ -10,12 +10,12 @@
 
 <div align="center">
   
-I build software driven by curiosity rather than obligation.  
-My interests usually gravitate toward **web applications**, **websites**, and **game development**, depending on what I want to explore at the moment.
+I do  silly things in my free time.  
+Usually **web applications**, **websites**, and **game development**, depending on how much lazy I'm.
 
-I’m also an illustrator almost full-time, so I don’t spend every day coding — I work on projects when they genuinely interest me.
+I’m also an illustrator almost full-time, so I don’t spend every day coding.
 
-I don’t follow strict roles — I experiment, learn, and create at my own pace.
+I experiment, learn, and create at my own pace.
 
 </div>
 
